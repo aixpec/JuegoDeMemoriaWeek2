@@ -22,6 +22,7 @@
 		9EA900A61C86B9BB00EDE7EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9EA900A91C86B9BB00EDE7EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9EA900AB1C86B9BB00EDE7EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9EA900B11C86BD9600EDE7EF /* Juego De Memoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Juego De Memoria.playground"; path = "../../Juego De Memoria.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		9EA9009E1C86B9BB00EDE7EF /* Juego de Memoria Week 2 */ = {
 			isa = PBXGroup;
 			children = (
+				9EA900B11C86BD9600EDE7EF /* Juego De Memoria.playground */,
 				9EA9009F1C86B9BB00EDE7EF /* AppDelegate.swift */,
 				9EA900A11C86B9BB00EDE7EF /* ViewController.swift */,
 				9EA900A31C86B9BB00EDE7EF /* Main.storyboard */,
