@@ -55,15 +55,23 @@
 		9EA9009E1C86B9BB00EDE7EF /* Juego de Memoria Week 2 */ = {
 			isa = PBXGroup;
 			children = (
-				9EA900B11C86BD9600EDE7EF /* Juego De Memoria.playground */,
 				9EA9009F1C86B9BB00EDE7EF /* AppDelegate.swift */,
 				9EA900A11C86B9BB00EDE7EF /* ViewController.swift */,
 				9EA900A31C86B9BB00EDE7EF /* Main.storyboard */,
 				9EA900A61C86B9BB00EDE7EF /* Assets.xcassets */,
 				9EA900A81C86B9BB00EDE7EF /* LaunchScreen.storyboard */,
 				9EA900AB1C86B9BB00EDE7EF /* Info.plist */,
+				9EA900B21C86C06E00EDE7EF /* PlayGrounds */,
 			);
 			path = "Juego de Memoria Week 2";
+			sourceTree = "<group>";
+		};
+		9EA900B21C86C06E00EDE7EF /* PlayGrounds */ = {
+			isa = PBXGroup;
+			children = (
+				9EA900B11C86BD9600EDE7EF /* Juego De Memoria.playground */,
+			);
+			name = PlayGrounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
